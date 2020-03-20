@@ -1,5 +1,5 @@
 # Estate-System
-A JEE application, where clients can sell and bid on houses. 
+A JEE application, where clients can sell and bid on properties. 
 
 
 ## Overview:
